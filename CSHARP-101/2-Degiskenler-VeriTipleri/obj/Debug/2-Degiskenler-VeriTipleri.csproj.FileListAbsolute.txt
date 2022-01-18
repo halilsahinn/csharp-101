@@ -1,0 +1,7 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\bin\Debug\2-Degiskenler-VeriTipleri.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\bin\Debug\2-Degiskenler-VeriTipleri.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\bin\Debug\2-Degiskenler-VeriTipleri.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\obj\Debug\2-Degiskenler-VeriTipleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\obj\Debug\2-Degiskenler-VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\obj\Debug\2-Degiskenler-VeriTipleri.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Degiskenler-VeriTipleri\obj\Debug\2-Degiskenler-VeriTipleri.pdb

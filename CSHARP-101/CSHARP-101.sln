@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WINFORM", "WINFORM", "{3DF8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Console-WriteLine", "1-Console-WriteLine\1-Console-WriteLine.csproj", "{D820F705-3F36-45C5-B7EA-FEAEDB689742}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Degiskenler-VeriTipleri", "2-Degiskenler-VeriTipleri\2-Degiskenler-VeriTipleri.csproj", "{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{D820F705-3F36-45C5-B7EA-FEAEDB689742}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D820F705-3F36-45C5-B7EA-FEAEDB689742}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D820F705-3F36-45C5-B7EA-FEAEDB689742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D820F705-3F36-45C5-B7EA-FEAEDB689742} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{BD76E8D9-4CEB-4E65-A441-1BADE6E147C9} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
