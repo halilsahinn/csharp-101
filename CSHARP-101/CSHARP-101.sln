@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Try-Catch-Exception", "5-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-If-ElseIf-Ternary-If", "6-If-ElseIf-Ternary-If\6-If-ElseIf-Ternary-If.csproj", "{31043428-F10A-4529-9CF7-532279D5B877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Switch-Case", "7-Switch-Case\7-Switch-Case.csproj", "{88E8F7B6-B3DE-47F4-8901-B4B48205CB47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{31043428-F10A-4529-9CF7-532279D5B877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31043428-F10A-4529-9CF7-532279D5B877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31043428-F10A-4529-9CF7-532279D5B877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E8F7B6-B3DE-47F4-8901-B4B48205CB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E8F7B6-B3DE-47F4-8901-B4B48205CB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E8F7B6-B3DE-47F4-8901-B4B48205CB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E8F7B6-B3DE-47F4-8901-B4B48205CB47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{31043428-F10A-4529-9CF7-532279D5B877} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{88E8F7B6-B3DE-47F4-8901-B4B48205CB47} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
