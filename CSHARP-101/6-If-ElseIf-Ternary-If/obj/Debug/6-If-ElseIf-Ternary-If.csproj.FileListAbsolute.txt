@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\bin\Debug\6-If-ElseIf-Ternary-If.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\bin\Debug\6-If-ElseIf-Ternary-If.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\bin\Debug\6-If-ElseIf-Ternary-If.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\obj\Debug\6-If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\obj\Debug\6-If-ElseIf-Ternary-If.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\obj\Debug\6-If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\obj\Debug\6-If-ElseIf-Ternary-If.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\6-If-ElseIf-Ternary-If\obj\Debug\6-If-ElseIf-Ternary-If.pdb
