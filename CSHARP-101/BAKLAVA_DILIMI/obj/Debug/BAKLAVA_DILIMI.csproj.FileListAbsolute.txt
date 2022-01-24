@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\bin\Debug\BAKLAVA_DILIMI.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\bin\Debug\BAKLAVA_DILIMI.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\bin\Debug\BAKLAVA_DILIMI.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\obj\Debug\BAKLAVA_DILIMI.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\obj\Debug\BAKLAVA_DILIMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\obj\Debug\BAKLAVA_DILIMI.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\obj\Debug\BAKLAVA_DILIMI.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\BAKLAVA_DILIMI\obj\Debug\BAKLAVA_DILIMI.pdb

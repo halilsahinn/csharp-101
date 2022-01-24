@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d820f705-3f36-45c5-b7ea-feaedb689742": {
+      "ProjectGuid": "d820f705-3f36-45c5-b7ea-feaedb689742",
+      "DisplayName": "1-Console-WriteLine",
+      "ColorIndex": 0
+    },
+    "bd76e8d9-4ceb-4e65-a441-1bade6e147c9": {
+      "ProjectGuid": "bd76e8d9-4ceb-4e65-a441-1bade6e147c9",
+      "DisplayName": "2-Degiskenler-VeriTipleri",
+      "ColorIndex": 1
+    },
+    "9c284a07-83dc-4ffa-b99f-f6f0d7fb2f31": {
+      "ProjectGuid": "9c284a07-83dc-4ffa-b99f-f6f0d7fb2f31",
+      "DisplayName": "3-Operatorler",
+      "ColorIndex": 2
+    },
+    "5c003068-44fb-420e-b2ec-664d3284afe6": {
+      "ProjectGuid": "5c003068-44fb-420e-b2ec-664d3284afe6",
+      "DisplayName": "BAKLAVA_DILIMI",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
