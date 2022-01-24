@@ -1,0 +1,7 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\bin\Debug\5-Try-Catch-Exception.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\bin\Debug\5-Try-Catch-Exception.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\bin\Debug\5-Try-Catch-Exception.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\obj\Debug\5-Try-Catch-Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\obj\Debug\5-Try-Catch-Exception.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\obj\Debug\5-Try-Catch-Exception.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\5-Try-Catch-Exception\obj\Debug\5-Try-Catch-Exception.pdb

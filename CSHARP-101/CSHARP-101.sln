@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAKLAVA_DILIMI", "BAKLAVA_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Tip-Donusumleri", "4-Tip-Donusumleri\4-Tip-Donusumleri.csproj", "{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Try-Catch-Exception", "5-Try-Catch-Exception\5-Try-Catch-Exception.csproj", "{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +61,7 @@ Global
 		{9C284A07-83DC-4FFA-B99F-F6F0D7FB2F31} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{5C003068-44FB-420E-B2EC-664D3284AFE6} = {4D18DB12-FC34-4A5F-906B-9458EBE5142A}
 		{466EF0A9-28A3-4D9A-A2E0-3103EE81DE4B} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{48E4AA6E-30F7-4E8C-AB96-0446C239CFCF} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
