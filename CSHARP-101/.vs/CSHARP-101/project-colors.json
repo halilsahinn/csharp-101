@@ -20,7 +20,42 @@
       "ProjectGuid": "5c003068-44fb-420e-b2ec-664d3284afe6",
       "DisplayName": "BAKLAVA_DILIMI",
       "ColorIndex": 3
+    },
+    "466ef0a9-28a3-4d9a-a2e0-3103ee81de4b": {
+      "ProjectGuid": "466ef0a9-28a3-4d9a-a2e0-3103ee81de4b",
+      "DisplayName": "4-Tip-Donusumleri",
+      "ColorIndex": 4
+    },
+    "48e4aa6e-30f7-4e8c-ab96-0446c239cfcf": {
+      "ProjectGuid": "48e4aa6e-30f7-4e8c-ab96-0446c239cfcf",
+      "DisplayName": "5-Try-Catch-Exception",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "31043428-f10a-4529-9cf7-532279d5b877": {
+      "ProjectGuid": "31043428-f10a-4529-9cf7-532279d5b877",
+      "DisplayName": "6-If-ElseIf-Ternary-If",
+      "ColorIndex": 6
+    },
+    "88e8f7b6-b3de-47f4-8901-b4b48205cb47": {
+      "ProjectGuid": "88e8f7b6-b3de-47f4-8901-b4b48205cb47",
+      "DisplayName": "7-Switch-Case",
+      "ColorIndex": 7
+    },
+    "458ce6de-751d-43d8-987d-3a166264ddcb": {
+      "ProjectGuid": "458ce6de-751d-43d8-987d-3a166264ddcb",
+      "DisplayName": "8-For-Loop-Ve- Break-Continue-Ifadeleri",
+      "ColorIndex": 8
+    },
+    "8932084d-c0bd-4d30-b0df-3ea584e9b071": {
+      "ProjectGuid": "8932084d-c0bd-4d30-b0df-3ea584e9b071",
+      "DisplayName": "9-While-Foreach",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 10
 }

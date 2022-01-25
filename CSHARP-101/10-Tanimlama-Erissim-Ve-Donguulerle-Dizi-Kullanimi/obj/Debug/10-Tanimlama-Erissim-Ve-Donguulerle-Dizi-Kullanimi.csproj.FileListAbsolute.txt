@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\bin\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\bin\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\bin\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\obj\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\obj\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\obj\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\obj\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi\obj\Debug\10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi.pdb
