@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\bin\Debug\11-Array-Sınıfı-Methodları.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\bin\Debug\11-Array-Sınıfı-Methodları.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\bin\Debug\11-Array-Sınıfı-Methodları.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\obj\Debug\11-Array-Sınıfı-Methodları.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\obj\Debug\11-Array-Sınıfı-Methodları.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\obj\Debug\11-Array-Sınıfı-Methodları.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\obj\Debug\11-Array-Sınıfı-Methodları.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\11-Array-Sınıfı-Methodları\obj\Debug\11-Array-Sınıfı-Methodları.pdb

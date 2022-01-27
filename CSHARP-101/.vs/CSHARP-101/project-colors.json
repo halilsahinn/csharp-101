@@ -55,7 +55,17 @@
       "ProjectGuid": "8932084d-c0bd-4d30-b0df-3ea584e9b071",
       "DisplayName": "9-While-Foreach",
       "ColorIndex": 9
+    },
+    "bb87e091-c16f-4dfb-9bf3-b4556a8e4091": {
+      "ProjectGuid": "bb87e091-c16f-4dfb-9bf3-b4556a8e4091",
+      "DisplayName": "10-Tanimlama-Erissim-Ve-Donguulerle-Dizi-Kullanimi",
+      "ColorIndex": 10
+    },
+    "1544b2db-3fb2-419d-b552-13aef6ba23a9": {
+      "ProjectGuid": "1544b2db-3fb2-419d-b552-13aef6ba23a9",
+      "DisplayName": "11-Array-Sınıfı-Methodları",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }
