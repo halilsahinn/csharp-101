@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Tanimlama-Erissim-Ve-Don
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Array-Sınıfı-Methodları", "11-Array-Sınıfı-Methodları\11-Array-Sınıfı-Methodları.csproj", "{1544B2DB-3FB2-419D-B552-13AEF6BA23A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Metotlar-Overloading", "12-Metotlar-Overloading\12-Metotlar-Overloading.csproj", "{C6A255CF-C2C5-4255-B3B6-1A4E173F4511}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{1544B2DB-3FB2-419D-B552-13AEF6BA23A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1544B2DB-3FB2-419D-B552-13AEF6BA23A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1544B2DB-3FB2-419D-B552-13AEF6BA23A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A255CF-C2C5-4255-B3B6-1A4E173F4511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A255CF-C2C5-4255-B3B6-1A4E173F4511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A255CF-C2C5-4255-B3B6-1A4E173F4511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A255CF-C2C5-4255-B3B6-1A4E173F4511}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{8932084D-C0BD-4D30-B0DF-3EA584E9B071} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{BB87E091-C16F-4DFB-9BF3-B4556A8E4091} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{1544B2DB-3FB2-419D-B552-13AEF6BA23A9} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{C6A255CF-C2C5-4255-B3B6-1A4E173F4511} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
