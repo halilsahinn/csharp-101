@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\bin\Debug\12-Metotlar-Overloading.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\bin\Debug\12-Metotlar-Overloading.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\bin\Debug\12-Metotlar-Overloading.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\obj\Debug\12-Metotlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\obj\Debug\12-Metotlar-Overloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\obj\Debug\12-Metotlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\obj\Debug\12-Metotlar-Overloading.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Metotlar-Overloading\obj\Debug\12-Metotlar-Overloading.pdb

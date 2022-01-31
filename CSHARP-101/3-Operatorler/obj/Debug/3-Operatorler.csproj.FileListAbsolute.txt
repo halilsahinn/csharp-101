@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\bin\Debug\3-Operatorler.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\bin\Debug\3-Operatorler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\bin\Debug\3-Operatorler.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\obj\Debug\3-Operatorler.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\obj\Debug\3-Operatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\obj\Debug\3-Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\obj\Debug\3-Operatorler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Operatorler\obj\Debug\3-Operatorler.pdb
