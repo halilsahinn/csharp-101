@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Datetime-Ve-Math-Sinifla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Hazir-Metodlar-String", "15-Hazir-Metodlar-String\15-Hazir-Metodlar-String.csproj", "{C1DC35D7-F30F-4E33-9C48-74C1BEE9A227}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Generic-Koleksiyonlar-Ve-List", "16-Generic-Koleksiyonlar-Ve-List\16-Generic-Koleksiyonlar-Ve-List.csproj", "{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{C1DC35D7-F30F-4E33-9C48-74C1BEE9A227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1DC35D7-F30F-4E33-9C48-74C1BEE9A227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1DC35D7-F30F-4E33-9C48-74C1BEE9A227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{09C19217-EDE4-4CB1-B484-567A2578C2FE} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{0231D64E-047C-431C-A10B-16518BF75A75} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{C1DC35D7-F30F-4E33-9C48-74C1BEE9A227} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
