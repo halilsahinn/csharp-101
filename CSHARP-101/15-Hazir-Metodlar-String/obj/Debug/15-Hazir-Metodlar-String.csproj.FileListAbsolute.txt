@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\bin\Debug\15-Hazir-Metodlar-String.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\bin\Debug\15-Hazir-Metodlar-String.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\bin\Debug\15-Hazir-Metodlar-String.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\obj\Debug\15-Hazir-Metodlar-String.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\obj\Debug\15-Hazir-Metodlar-String.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\obj\Debug\15-Hazir-Metodlar-String.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\obj\Debug\15-Hazir-Metodlar-String.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\15-Hazir-Metodlar-String\obj\Debug\15-Hazir-Metodlar-String.pdb
