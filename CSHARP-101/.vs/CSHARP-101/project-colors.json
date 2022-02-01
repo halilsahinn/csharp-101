@@ -70,7 +70,22 @@
       "ProjectGuid": "c6a255cf-c2c5-4255-b3b6-1a4e173f4511",
       "DisplayName": "12-Metotlar-Overloading",
       "ColorIndex": 12
+    },
+    "09c19217-ede4-4cb1-b484-567a2578c2fe": {
+      "ProjectGuid": "09c19217-ede4-4cb1-b484-567a2578c2fe",
+      "DisplayName": "13-Recursive -ve-Extension-Metotlar",
+      "ColorIndex": 13
+    },
+    "0231d64e-047c-431c-a10b-16518bf75a75": {
+      "ProjectGuid": "0231d64e-047c-431c-a10b-16518bf75a75",
+      "DisplayName": "14-Datetime-Ve-Math-Siniflari",
+      "ColorIndex": 14
+    },
+    "d85b53d2-16b1-413f-8f69-781a87a975df": {
+      "ProjectGuid": "d85b53d2-16b1-413f-8f69-781a87a975df",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 0
 }
