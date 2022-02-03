@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="_2_Fly_Management_System.Plane">
+    <Position X="1.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAABAAQAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_Fly_Management_System.Pilot">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Pilot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_Fly_Management_System.AirLine">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>AirLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_Fly_Management_System.Flight">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAAAAIAAAAAAAAACABAAAAAkAAAAAAAAAA=</HashCode>
+      <FileName>Flight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_Fly_Management_System.AirPort">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AirPort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_2_Fly_Management_System.PlaneStatus">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_2_Fly_Management_System.PlaneType">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_2_Fly_Management_System.PilotType">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PilotType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_2_Fly_Management_System.PilotExperienceLevel">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>PilotExperienceLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

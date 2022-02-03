@@ -49,6 +49,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{C268
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Animals", "1-Animals\1-Animals.csproj", "{EDC80897-9910-4435-BBFB-D0315504DC4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Fly-Management-System", "2-Fly-Management-System\2-Fly-Management-System.csproj", "{A329B74A-F520-4DBB-B3E6-FD8E31A98311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{EDC80897-9910-4435-BBFB-D0315504DC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC80897-9910-4435-BBFB-D0315504DC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC80897-9910-4435-BBFB-D0315504DC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A329B74A-F520-4DBB-B3E6-FD8E31A98311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A329B74A-F520-4DBB-B3E6-FD8E31A98311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A329B74A-F520-4DBB-B3E6-FD8E31A98311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A329B74A-F520-4DBB-B3E6-FD8E31A98311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -151,6 +157,7 @@ Global
 		{9A6A36F4-BEEE-4BBE-8B55-FA372C75544F} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{C2689524-EE1E-4A7D-9A40-7E6CB2799E4A} = {6D842C29-A14A-4394-B496-EC4EB172B52F}
 		{EDC80897-9910-4435-BBFB-D0315504DC4A} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
+		{A329B74A-F520-4DBB-B3E6-FD8E31A98311} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}

@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\bin\Debug\2-Fly-Management-System.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\bin\Debug\2-Fly-Management-System.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\bin\Debug\2-Fly-Management-System.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\obj\Debug\2-Fly-Management-System.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\obj\Debug\2-Fly-Management-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\obj\Debug\2-Fly-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\obj\Debug\2-Fly-Management-System.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\2-Fly-Management-System\obj\Debug\2-Fly-Management-System.pdb
