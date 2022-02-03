@@ -100,7 +100,12 @@
       "ProjectGuid": "edc80897-9910-4435-bbfb-d0315504dc4a",
       "DisplayName": "1-Animals",
       "ColorIndex": 2
+    },
+    "a329b74a-f520-4dbb-b3e6-fd8e31a98311": {
+      "ProjectGuid": "a329b74a-f520-4dbb-b3e6-fd8e31a98311",
+      "DisplayName": "2-Fly-Management-System",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
