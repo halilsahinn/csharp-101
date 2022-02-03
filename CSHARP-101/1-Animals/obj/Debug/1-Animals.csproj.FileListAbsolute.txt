@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\bin\Debug\1-Animals.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\bin\Debug\1-Animals.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\bin\Debug\1-Animals.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\obj\Debug\1-Animals.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\obj\Debug\1-Animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\obj\Debug\1-Animals.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\obj\Debug\1-Animals.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Animals\obj\Debug\1-Animals.pdb

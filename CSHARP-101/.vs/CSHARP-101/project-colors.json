@@ -85,7 +85,22 @@
       "ProjectGuid": "d85b53d2-16b1-413f-8f69-781a87a975df",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 15
+    },
+    "c1dc35d7-f30f-4e33-9c48-74c1bee9a227": {
+      "ProjectGuid": "c1dc35d7-f30f-4e33-9c48-74c1bee9a227",
+      "DisplayName": "15-Hazir-Metodlar-String",
+      "ColorIndex": 0
+    },
+    "9a6a36f4-beee-4bbe-8b55-fa372c75544f": {
+      "ProjectGuid": "9a6a36f4-beee-4bbe-8b55-fa372c75544f",
+      "DisplayName": "16-Generic-Koleksiyonlar-Ve-List",
+      "ColorIndex": 1
+    },
+    "edc80897-9910-4435-bbfb-d0315504dc4a": {
+      "ProjectGuid": "edc80897-9910-4435-bbfb-d0315504dc4a",
+      "DisplayName": "1-Animals",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 3
 }
