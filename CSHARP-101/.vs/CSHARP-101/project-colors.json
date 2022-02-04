@@ -105,7 +105,12 @@
       "ProjectGuid": "a329b74a-f520-4dbb-b3e6-fd8e31a98311",
       "DisplayName": "2-Fly-Management-System",
       "ColorIndex": 3
+    },
+    "8efb3954-348a-4e8c-b591-f9900c4e2bf9": {
+      "ProjectGuid": "8efb3954-348a-4e8c-b591-f9900c4e2bf9",
+      "DisplayName": "3-Online-Film-Sistemi",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

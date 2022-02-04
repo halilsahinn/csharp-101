@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_4_Universite_Yonetim_Sistemi.ClassRoom">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Universite_Yonetim_Sistemi.Department">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Universite_Yonetim_Sistemi.WorkingOffice">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkingOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Universite_Yonetim_Sistemi.DepartmentOffice">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DepartmenOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Universite_Yonetim_Sistemi.Univercity">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAGAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Univercity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Universite_Yonetim_Sistemi.Employee">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
