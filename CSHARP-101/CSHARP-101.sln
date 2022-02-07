@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Online-Film-Sistemi", "3-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Universite-Yonetim-Sistemi", "4-Universite-Yonetim-Sistemi\4-Universite-Yonetim-Sistemi.csproj", "{08FD29DB-B9AC-442F-9208-8E174594382B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Enum", "17-Enum\17-Enum.csproj", "{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{08FD29DB-B9AC-442F-9208-8E174594382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FD29DB-B9AC-442F-9208-8E174594382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08FD29DB-B9AC-442F-9208-8E174594382B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -172,6 +178,7 @@ Global
 		{A329B74A-F520-4DBB-B3E6-FD8E31A98311} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
 		{8EFB3954-348A-4E8C-B591-F9900C4E2BF9} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
 		{08FD29DB-B9AC-442F-9208-8E174594382B} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
+		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}

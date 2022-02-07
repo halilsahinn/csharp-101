@@ -110,7 +110,12 @@
       "ProjectGuid": "8efb3954-348a-4e8c-b591-f9900c4e2bf9",
       "DisplayName": "3-Online-Film-Sistemi",
       "ColorIndex": 4
+    },
+    "08fd29db-b9ac-442f-9208-8e174594382b": {
+      "ProjectGuid": "08fd29db-b9ac-442f-9208-8e174594382b",
+      "DisplayName": "4-Universite-Yonetim-Sistemi",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
