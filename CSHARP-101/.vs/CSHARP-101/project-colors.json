@@ -115,7 +115,17 @@
       "ProjectGuid": "08fd29db-b9ac-442f-9208-8e174594382b",
       "DisplayName": "4-Universite-Yonetim-Sistemi",
       "ColorIndex": 5
+    },
+    "ad613f7c-f4e7-4d1f-946b-8f4f7c7e80ba": {
+      "ProjectGuid": "ad613f7c-f4e7-4d1f-946b-8f4f7c7e80ba",
+      "DisplayName": "17-Enum",
+      "ColorIndex": 6
+    },
+    "f226c15b-cb41-4435-ab62-33c9afdb3c7b": {
+      "ProjectGuid": "f226c15b-cb41-4435-ab62-33c9afdb3c7b",
+      "DisplayName": "AlgoritmaSorulari",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

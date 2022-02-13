@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\bin\Debug\AlgoritmaSorulari.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\bin\Debug\AlgoritmaSorulari.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\bin\Debug\AlgoritmaSorulari.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\obj\Debug\AlgoritmaSorulari.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\obj\Debug\AlgoritmaSorulari.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\obj\Debug\AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\obj\Debug\AlgoritmaSorulari.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\AlgoritmaSorulari\obj\Debug\AlgoritmaSorulari.pdb

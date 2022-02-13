@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\bin\Debug\18-ArrayList.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\bin\Debug\18-ArrayList.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\bin\Debug\18-ArrayList.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\obj\Debug\18-ArrayList.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\obj\Debug\18-ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\obj\Debug\18-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\obj\Debug\18-ArrayList.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\18-ArrayList\obj\Debug\18-ArrayList.pdb
