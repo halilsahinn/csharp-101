@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSorulari", "Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-ArrayList", "18-ArrayList\18-ArrayList.csproj", "{338E4EA9-AC50-4CCB-B508-13504E3C6860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Metotlar", "19-Metotlar\19-Metotlar.csproj", "{89763E6D-4659-4D83-A424-1336CC01AE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler", "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.csproj", "{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -163,6 +167,14 @@ Global
 		{338E4EA9-AC50-4CCB-B508-13504E3C6860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{338E4EA9-AC50-4CCB-B508-13504E3C6860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{338E4EA9-AC50-4CCB-B508-13504E3C6860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89763E6D-4659-4D83-A424-1336CC01AE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89763E6D-4659-4D83-A424-1336CC01AE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89763E6D-4659-4D83-A424-1336CC01AE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89763E6D-4659-4D83-A424-1336CC01AE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -193,6 +205,8 @@ Global
 		{AD613F7C-F4E7-4D1F-946B-8F4F7C7E80BA} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{F226C15B-CB41-4435-AB62-33C9AFDB3C7B} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{338E4EA9-AC50-4CCB-B508-13504E3C6860} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{89763E6D-4659-4D83-A424-1336CC01AE21} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}

@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\bin\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\bin\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\bin\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\obj\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\obj\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\obj\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\obj\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\obj\Debug\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.pdb
