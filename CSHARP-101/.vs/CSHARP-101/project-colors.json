@@ -140,7 +140,17 @@
       "ProjectGuid": "cd7023fa-f5a2-4c60-abb3-f8708559fae3",
       "DisplayName": "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler",
       "ColorIndex": 10
+    },
+    "dd45806e-d7d0-467a-a3d9-3c84fde39e2f": {
+      "ProjectGuid": "dd45806e-d7d0-467a-a3d9-3c84fde39e2f",
+      "DisplayName": "21-Sinif-Kavrami-Encapsulation-Ve-Property",
+      "ColorIndex": 11
+    },
+    "ea73343e-0f33-4919-a72d-c48af1932241": {
+      "ProjectGuid": "ea73343e-0f33-4919-a72d-c48af1932241",
+      "DisplayName": "22-Static-Sinif-Ve-Uyeler",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }

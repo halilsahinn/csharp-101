@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\bin\Debug\22-Static-Sinif-Ve-Uyeler.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\bin\Debug\22-Static-Sinif-Ve-Uyeler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\bin\Debug\22-Static-Sinif-Ve-Uyeler.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\obj\Debug\22-Static-Sinif-Ve-Uyeler.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\obj\Debug\22-Static-Sinif-Ve-Uyeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\obj\Debug\22-Static-Sinif-Ve-Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\obj\Debug\22-Static-Sinif-Ve-Uyeler.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\22-Static-Sinif-Ve-Uyeler\obj\Debug\22-Static-Sinif-Ve-Uyeler.pdb
