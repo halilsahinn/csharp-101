@@ -18,11 +18,7 @@ namespace _20_Sinif_Kavrami_Soz_Dizimi_Field_Metot_Tanimlama_Erisim_Belirliyicil
             //Private
             //Internal
             //Protected
-            Calisan calisan1 = new Calisan();
-            calisan1.Ad = "Halil";
-            calisan1.SoyAd = "ŞAHİN";
-            calisan1.No = 1323232;
-            calisan1.Departman = "Bilgi İşlem";
+            Calisan calisan1 = new Calisan("Halil","ŞAHİN", 1323232, "Bilgi İşlem");
             calisan1.CalisanBilgileriGetir();
             Console.WriteLine("***************");
 
@@ -32,6 +28,16 @@ namespace _20_Sinif_Kavrami_Soz_Dizimi_Field_Metot_Tanimlama_Erisim_Belirliyicil
             calisan2.No = 12344;
             calisan2.Departman = "Yazılım";
             calisan2.CalisanBilgileriGetir();
+            Console.WriteLine("***************");
+
+            Calisan calisan3 = new Calisan("Halil", "ŞAHİN", 1323232, "Bilgi İşlem");
+            calisan3.Ad = "Oğuzhan";
+            calisan3.SoyAd = "ŞAHİN";
+            calisan3.No = 1323232;
+            calisan3.Departman = "Muhasebe";
+            calisan3.CalisanBilgileriGetir();
+            Console.WriteLine("***************");
+
             Console.ReadLine();
         }
     }
@@ -44,6 +50,19 @@ namespace _20_Sinif_Kavrami_Soz_Dizimi_Field_Metot_Tanimlama_Erisim_Belirliyicil
         public string SoyAd;
         public int No;
         public string Departman;
+
+        public Calisan()
+        {
+             
+        }
+     
+        public Calisan(string ad, string soyAd, int no, string departman)
+        {
+            Ad = ad;
+            SoyAd = soyAd;
+            No = no;
+            Departman = departman;
+        }
 
         public void CalisanBilgileriGetir()
         {

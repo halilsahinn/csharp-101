@@ -125,7 +125,22 @@
       "ProjectGuid": "f226c15b-cb41-4435-ab62-33c9afdb3c7b",
       "DisplayName": "AlgoritmaSorulari",
       "ColorIndex": 7
+    },
+    "338e4ea9-ac50-4ccb-b508-13504e3c6860": {
+      "ProjectGuid": "338e4ea9-ac50-4ccb-b508-13504e3c6860",
+      "DisplayName": "18-ArrayList",
+      "ColorIndex": 8
+    },
+    "89763e6d-4659-4d83-a424-1336cc01ae21": {
+      "ProjectGuid": "89763e6d-4659-4d83-a424-1336cc01ae21",
+      "DisplayName": "19-Metotlar",
+      "ColorIndex": 9
+    },
+    "cd7023fa-f5a2-4c60-abb3-f8708559fae3": {
+      "ProjectGuid": "cd7023fa-f5a2-4c60-abb3-f8708559fae3",
+      "DisplayName": "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }
