@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\bin\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\bin\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\bin\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\obj\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\obj\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\obj\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\obj\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\21-Sinif-Kavrami-Encapsulation-Ve-Property\obj\Debug\21-Sinif-Kavrami-Encapsulation-Ve-Property.pdb

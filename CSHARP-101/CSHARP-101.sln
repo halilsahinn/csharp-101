@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Metotlar", "19-Metotlar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler", "20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler\20-Sinif-Kavrami-Soz-Dizimi-Field-Metot-Tanimlama-Erisim-Belirliyiciler.csproj", "{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-Sinif-Kavrami-Encapsulation-Ve-Property", "21-Sinif-Kavrami-Encapsulation-Ve-Property\21-Sinif-Kavrami-Encapsulation-Ve-Property.csproj", "{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -207,6 +213,7 @@ Global
 		{338E4EA9-AC50-4CCB-B508-13504E3C6860} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{89763E6D-4659-4D83-A424-1336CC01AE21} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}
