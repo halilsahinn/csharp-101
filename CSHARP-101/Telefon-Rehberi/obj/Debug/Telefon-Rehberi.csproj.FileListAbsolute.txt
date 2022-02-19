@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\bin\Debug\Telefon-Rehberi.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\bin\Debug\Telefon-Rehberi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\bin\Debug\Telefon-Rehberi.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\obj\Debug\Telefon-Rehberi.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\obj\Debug\Telefon-Rehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\obj\Debug\Telefon-Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\obj\Debug\Telefon-Rehberi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\Telefon-Rehberi\obj\Debug\Telefon-Rehberi.pdb

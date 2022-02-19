@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-Sinif-Kavrami-Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-Static-Sinif-Ve-Uyeler", "22-Static-Sinif-Ve-Uyeler\22-Static-Sinif-Ve-Uyeler.csproj", "{EA73343E-0F33-4919-A72D-C48AF1932241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefon-Rehberi", "Telefon-Rehberi\Telefon-Rehberi.csproj", "{073ACABC-3F94-4D79-986A-00239D6AD63C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,10 @@ Global
 		{EA73343E-0F33-4919-A72D-C48AF1932241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA73343E-0F33-4919-A72D-C48AF1932241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA73343E-0F33-4919-A72D-C48AF1932241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073ACABC-3F94-4D79-986A-00239D6AD63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073ACABC-3F94-4D79-986A-00239D6AD63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073ACABC-3F94-4D79-986A-00239D6AD63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073ACABC-3F94-4D79-986A-00239D6AD63C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{CD7023FA-F5A2-4C60-ABB3-F8708559FAE3} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{DD45806E-D7D0-467A-A3D9-3C84FDE39E2F} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{EA73343E-0F33-4919-A72D-C48AF1932241} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{073ACABC-3F94-4D79-986A-00239D6AD63C} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}

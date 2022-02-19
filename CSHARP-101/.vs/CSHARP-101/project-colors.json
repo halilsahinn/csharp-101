@@ -150,7 +150,12 @@
       "ProjectGuid": "ea73343e-0f33-4919-a72d-c48af1932241",
       "DisplayName": "22-Static-Sinif-Ve-Uyeler",
       "ColorIndex": 12
+    },
+    "073acabc-3f94-4d79-986a-00239d6ad63c": {
+      "ProjectGuid": "073acabc-3f94-4d79-986a-00239d6ad63c",
+      "DisplayName": "Telefon-Rehberi",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
