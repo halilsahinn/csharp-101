@@ -155,7 +155,12 @@
       "ProjectGuid": "073acabc-3f94-4d79-986a-00239d6ad63c",
       "DisplayName": "Telefon-Rehberi",
       "ColorIndex": 13
+    },
+    "74365d7c-8a00-43cf-b83c-7be75e49fe54": {
+      "ProjectGuid": "74365d7c-8a00-43cf-b83c-7be75e49fe54",
+      "DisplayName": "To-Do-Uygulamasi",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }

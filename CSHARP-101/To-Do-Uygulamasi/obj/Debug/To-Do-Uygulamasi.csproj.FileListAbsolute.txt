@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\bin\Debug\To-Do-Uygulamasi.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\bin\Debug\To-Do-Uygulamasi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\bin\Debug\To-Do-Uygulamasi.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\obj\Debug\To-Do-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\obj\Debug\To-Do-Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\obj\Debug\To-Do-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\obj\Debug\To-Do-Uygulamasi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\To-Do-Uygulamasi\obj\Debug\To-Do-Uygulamasi.pdb
