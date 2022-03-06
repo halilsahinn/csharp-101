@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\bin\Debug\4-Universite-Yonetim-Sistemi.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\bin\Debug\4-Universite-Yonetim-Sistemi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\bin\Debug\4-Universite-Yonetim-Sistemi.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\obj\Debug\4-Universite-Yonetim-Sistemi.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\obj\Debug\4-Universite-Yonetim-Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\obj\Debug\4-Universite-Yonetim-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\obj\Debug\4-Universite-Yonetim-Sistemi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Universite-Yonetim-Sistemi\obj\Debug\4-Universite-Yonetim-Sistemi.pdb

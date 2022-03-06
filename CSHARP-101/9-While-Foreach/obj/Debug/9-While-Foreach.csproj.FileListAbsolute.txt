@@ -5,3 +5,4 @@ C:\Users\halil\source\repos\csharp-101\CSHARP-101\9-While-Foreach\obj\Debug\9-Wh
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\9-While-Foreach\obj\Debug\9-While-Foreach.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\9-While-Foreach\obj\Debug\9-While-Foreach.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\9-While-Foreach\obj\Debug\9-While-Foreach.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\9-While-Foreach\obj\Debug\9-While-Foreach.csproj.AssemblyReference.cache

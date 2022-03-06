@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\bin\Debug\4-Tip-Donusumleri.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\bin\Debug\4-Tip-Donusumleri.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\bin\Debug\4-Tip-Donusumleri.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\obj\Debug\4-Tip-Donusumleri.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\obj\Debug\4-Tip-Donusumleri.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\obj\Debug\4-Tip-Donusumleri.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\4-Tip-Donusumleri\obj\Debug\4-Tip-Donusumleri.exe

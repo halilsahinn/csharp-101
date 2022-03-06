@@ -1,0 +1,7 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\bin\Debug\12-Recursive -ve-Extension-Metotlar.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\bin\Debug\12-Recursive -ve-Extension-Metotlar.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\bin\Debug\12-Recursive -ve-Extension-Metotlar.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\obj\Debug\13-Recursive -ve-Extension-Metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\obj\Debug\13-Recursive -ve-Extension-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\obj\Debug\12-Recursive -ve-Extension-Metotlar.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\12-Recursive -ve-Extension-Metotlar\obj\Debug\12-Recursive -ve-Extension-Metotlar.pdb

@@ -5,4 +5,3 @@ C:\Users\halil\source\repos\csharp-101\CSHARP-101\8-For-Loop-Ve- Break-Continue-
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\8-For-Loop-Ve- Break-Continue-Ifadeleri\obj\Debug\8-For-Loop-Ve- Break-Continue-Ifadeleri.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\8-For-Loop-Ve- Break-Continue-Ifadeleri\obj\Debug\8-For-Loop-Ve- Break-Continue-Ifadeleri.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\8-For-Loop-Ve- Break-Continue-Ifadeleri\obj\Debug\8-For-Loop-Ve- Break-Continue-Ifadeleri.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\8-For-Loop-Ve- Break-Continue-Ifadeleri\obj\Debug\8-For-Loop-Ve- Break-Continue-Ifadeleri.csproj.AssemblyReference.cache

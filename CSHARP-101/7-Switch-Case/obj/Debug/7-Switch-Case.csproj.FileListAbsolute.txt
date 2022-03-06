@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\bin\Debug\7-Switch-Case.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\bin\Debug\7-Switch-Case.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\bin\Debug\7-Switch-Case.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\obj\Debug\7-Switch-Case.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\obj\Debug\7-Switch-Case.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\obj\Debug\7-Switch-Case.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\7-Switch-Case\obj\Debug\7-Switch-Case.exe

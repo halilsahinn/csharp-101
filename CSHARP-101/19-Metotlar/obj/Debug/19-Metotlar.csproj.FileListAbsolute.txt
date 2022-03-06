@@ -1,0 +1,7 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\bin\Debug\19-Metotlar.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\bin\Debug\19-Metotlar.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\bin\Debug\19-Metotlar.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\obj\Debug\19-Metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\obj\Debug\19-Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\obj\Debug\19-Metotlar.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\19-Metotlar\obj\Debug\19-Metotlar.pdb

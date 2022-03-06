@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\bin\Debug\16-Generic-Koleksiyonlar-Ve-List.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\bin\Debug\16-Generic-Koleksiyonlar-Ve-List.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\bin\Debug\16-Generic-Koleksiyonlar-Ve-List.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\obj\Debug\16-Generic-Koleksiyonlar-Ve-List.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\obj\Debug\16-Generic-Koleksiyonlar-Ve-List.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\obj\Debug\16-Generic-Koleksiyonlar-Ve-List.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\16-Generic-Koleksiyonlar-Ve-List\obj\Debug\16-Generic-Koleksiyonlar-Ve-List.exe

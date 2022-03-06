@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\bin\Debug\14-Datetime-Ve-Math-Siniflari.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\bin\Debug\14-Datetime-Ve-Math-Siniflari.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\bin\Debug\14-Datetime-Ve-Math-Siniflari.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\obj\Debug\14-Datetime-Ve-Math-Siniflari.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\obj\Debug\14-Datetime-Ve-Math-Siniflari.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\obj\Debug\14-Datetime-Ve-Math-Siniflari.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\14-Datetime-Ve-Math-Siniflari\obj\Debug\14-Datetime-Ve-Math-Siniflari.exe

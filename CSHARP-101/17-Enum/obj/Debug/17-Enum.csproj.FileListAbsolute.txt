@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\bin\Debug\17-Enum.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\bin\Debug\17-Enum.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\bin\Debug\17-Enum.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\obj\Debug\17-Enum.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\obj\Debug\17-Enum.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\obj\Debug\17-Enum.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\17-Enum\obj\Debug\17-Enum.exe

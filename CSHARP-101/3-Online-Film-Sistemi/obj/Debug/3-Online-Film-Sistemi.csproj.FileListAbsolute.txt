@@ -1,0 +1,8 @@
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\bin\Debug\3-Online-Film-Sistemi.exe.config
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\bin\Debug\3-Online-Film-Sistemi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\bin\Debug\3-Online-Film-Sistemi.pdb
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\obj\Debug\3-Online-Film-Sistemi.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\obj\Debug\3-Online-Film-Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\obj\Debug\3-Online-Film-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\obj\Debug\3-Online-Film-Sistemi.exe
+C:\Users\halil\source\repos\csharp-101\CSHARP-101\3-Online-Film-Sistemi\obj\Debug\3-Online-Film-Sistemi.pdb

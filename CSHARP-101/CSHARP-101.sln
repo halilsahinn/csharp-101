@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefon-Rehberi", "Telefon-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To-Do-Uygulamasi", "To-Do-Uygulamasi\To-Do-Uygulamasi.csproj", "{74365D7C-8A00-43CF-B83C-7BE75E49FE54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asansor-Simulasyonu", "Asansor-Simulasyonu\Asansor-Simulasyonu.csproj", "{07DBF868-CE2C-4D0F-B7DA-2B2403697060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{74365D7C-8A00-43CF-B83C-7BE75E49FE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74365D7C-8A00-43CF-B83C-7BE75E49FE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74365D7C-8A00-43CF-B83C-7BE75E49FE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DBF868-CE2C-4D0F-B7DA-2B2403697060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DBF868-CE2C-4D0F-B7DA-2B2403697060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DBF868-CE2C-4D0F-B7DA-2B2403697060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DBF868-CE2C-4D0F-B7DA-2B2403697060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -235,6 +241,7 @@ Global
 		{EA73343E-0F33-4919-A72D-C48AF1932241} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{073ACABC-3F94-4D79-986A-00239D6AD63C} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
 		{74365D7C-8A00-43CF-B83C-7BE75E49FE54} = {1CD69608-98B0-4166-985B-65F955B0A0F4}
+		{07DBF868-CE2C-4D0F-B7DA-2B2403697060} = {C2689524-EE1E-4A7D-9A40-7E6CB2799E4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E51A85F0-D99B-46BB-8B4B-35FBDA1C05DF}

@@ -1,7 +1,6 @@
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\bin\Debug\1-Console-WriteLine.exe.config
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\bin\Debug\1-Console-WriteLine.exe
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\bin\Debug\1-Console-WriteLine.pdb
-C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\obj\Debug\1-Console-WriteLine.csproj.AssemblyReference.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\obj\Debug\1-Console-WriteLine.csproj.SuggestedBindingRedirects.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\obj\Debug\1-Console-WriteLine.csproj.CoreCompileInputs.cache
 C:\Users\halil\source\repos\csharp-101\CSHARP-101\1-Console-WriteLine\obj\Debug\1-Console-WriteLine.exe
